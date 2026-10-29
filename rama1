@@ -1,0 +1,3 @@
+nombre = input("Escribe yu nombre: ")
+print(f"Hola {nombre}!!")
+
